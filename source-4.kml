@@ -3214,5 +3214,19 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
+		<Placemark>
+		<name>elsternwick</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						145.0056916548936,-37.89766176054104,0 145.0125981020261,-37.89842724165731,0 145.0163688241227,-37.87912673674077,0 144.9980292396686,-37.87687814462033,0 144.9966929619299,-37.88349046802722,0 145.0056916548936,-37.89766176054104,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
 	</Document>
 </kml>
